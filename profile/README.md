@@ -2,6 +2,8 @@
 
 > Engineering should be open, composable, reusable, and enjoyable.
 
+![image](hero.png)
+
 The **Open Engineering** is an open collection of platforms, products, conventions, ontologies, tools, intelligent assistants, and communities that together make engineering more understandable, more reusable, and more collaborative.
 
 Rather than building isolated software projects, Open Engineering provides a shared ecosystem in which ideas, knowledge, software, games, investigations, and intelligent characters can evolve together.
