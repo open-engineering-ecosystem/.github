@@ -37,6 +37,7 @@ Examples include:
 - Open Engineering Brands
 - Open Engineering Channels
 - Open Engineering Infrastructure
+- [Open Engineering Innovations](https://github.com/open-engineering-innovations)
 - Open Engineering Signatures
 - Detective Operating System
 - Game Operating System
