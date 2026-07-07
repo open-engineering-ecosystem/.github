@@ -31,6 +31,7 @@ The ecosystem consists of many independent projects that share common principles
 
 Examples include:
 
+- [Open Engineering Continuity](https://github.com/open-engineering-continuity)
 - Open Engineering Platform
 - Open Engineering Ontology
 - Open Engineering Conventions
